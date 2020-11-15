@@ -6,6 +6,8 @@
 
 import json
 from math import sqrt
+import matplotlib.pyplot as plt
+from math import *
 
 file = open('movie_data.json', 'r', encoding='utf-8')
 movie_data = json.load(file)
@@ -13,7 +15,8 @@ file.close()
 
 # 这里填豆瓣id
 my_name = "180311913"
-
+sim_person = []
+sim_person_data = []
 
 # 返回p1和p2的皮尔逊相关系数，即两个人品味的相似度
 def sim_pearson(data, p1, p2):
@@ -60,12 +63,17 @@ def top_matches(data, person, similarity=sim_pearson):
     """
     sorted_data = {person: data[person]}
     min_sim = 0.5
+    sim_persons_list = []
+    sim_person.clear()
+    sim_person_data.clear()
     for other in data:
         if other == person:
             continue
         if similarity(data, person, other) >= min_sim:
             sorted_data[other] = data[other]
-            print(other, sorted_data[other])
+            sim_person.append(other)
+            sim_person_data.append(sorted_data[other])
+            # print(other, sorted_data[other])
     return sorted_data
 
 
@@ -86,7 +94,7 @@ def get_recommendations(data1, person, n=5, similarity=sim_pearson):
         if other == person:  # 计算除自己以外的相似度
             continue
         sim = similarity(data, person, other)
-        print("皮尔森相似度:", sim)
+        # print("皮尔森相似度:", sim)
         # 将等于0或更小的项目去掉
         if sim <= 0:
             continue
@@ -110,9 +118,56 @@ def get_recommendations(data1, person, n=5, similarity=sim_pearson):
     # print(rankings)
     return rankings[0:n]
 
+def showmenu():
+    prompt = """
+        (1)计算某个用户最相似的用户
+        (2)根据用户推荐电影给其他人
+        (3)计算两用户之间的相关系数
+        (Q)退出
+        Enter choice:"""
+    chosen = True
+    while chosen:
+        choice = input(prompt).strip()[0].upper()
+        if choice == '1':
+            print(choice)
+            print("请输入需要计算相似率的用户：")
+            user = input()
+            RES = top_matches(movie_data, user)
+            for i in range(5):
+                print(sim_person[i])
+                print(sim_person_data[i])
+            # fraces = []
+            # labels = []
+            # x = [1, 2, 3, 4, 5]
+            # for i in RES:
+            #     labels.append(i[0])
+            #     fraces.append(i[1])
+            # plt.plot(x, fraces)
+            # for a, b, c in zip(x, fraces, labels):
+            #     plt.text(a, b, c, ha='center', va='bottom', fontsize=10)
+            # plt.show()
+        elif choice == '2':
+            print(choice)
+            print("请输入需要被推荐电影的用户：")
+            user = input()
+            Recommendations = get_recommendations(movie_data, user, 5)
+            for movie in Recommendations:
+                print(movie)
+        elif choice == '3':
+            print("请输入需要比较的两个用户：")
+            print("请输入第一个用户编号：")
+            user1 = input()
+            print("请输入第二个用户编号：")
+            user2 = input()
+            R = sim_pearson(movie_data, user1, user2)
+            print(R)
+        elif choice == 'Q':
+            print("退出程序！！！")
+            chosen = False
 
 if __name__ == '__main__':
     # 打印推荐结果
-    for res in get_recommendations(movie_data, my_name, n=5):
-        print(res)
+    # for res in get_recommendations(movie_data, my_name, n=5):
+    #     print(res)
+    showmenu()
 
