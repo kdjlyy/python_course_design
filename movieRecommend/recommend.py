@@ -133,7 +133,7 @@ def showmenu():
             print("请输入需要计算相似率的用户：")
             user = input()
             RES = top_matches(movie_data, user)
-            for i in range(5):
+            for i in range(len(sim_person)):
                 print(sim_person[i])
                 print(sim_person_data[i])
             # fraces = []
