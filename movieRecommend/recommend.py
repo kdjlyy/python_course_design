@@ -17,7 +17,7 @@ file.close()
 my_name = "180311913"
 sim_person = []
 sim_person_data = []
-
+sim_person_sim = []
 # 返回p1和p2的皮尔逊相关系数，即两个人品味的相似度
 def sim_pearson(data, p1, p2):
     """
@@ -62,15 +62,17 @@ def top_matches(data, person, similarity=sim_pearson):
     :return:
     """
     sorted_data = {person: data[person]}
-    min_sim = 0.5
+    min_sim = 0.2
     sim_persons_list = []
     sim_person.clear()
     sim_person_data.clear()
+    sim_person_sim.clear()
     for other in data:
         if other == person:
             continue
         if similarity(data, person, other) >= min_sim:
             sorted_data[other] = data[other]
+            sim_person_sim.append(similarity(data, person, other))
             sim_person.append(other)
             sim_person_data.append(sorted_data[other])
             # print(other, sorted_data[other])
@@ -133,18 +135,24 @@ def showmenu():
             print("请输入需要计算相似率的用户：")
             user = input()
             RES = top_matches(movie_data, user)
+            x = []
             for i in range(len(sim_person)):
                 print(sim_person[i])
-                print(sim_person_data[i])
+                print(sim_person_sim[i])
+                x.append(i)
+            plt.bar(x, sim_person_sim)
+            for a, b, c in zip(x, sim_person_sim, sim_person):
+                plt.text(a, b, c, ha='center', va='bottom', fontsize=10)
+            plt.show()
             # fraces = []
             # labels = []
             # x = [1, 2, 3, 4, 5]
-            # for i in RES:
+            #for i in RES:
             #     labels.append(i[0])
             #     fraces.append(i[1])
-            # plt.plot(x, fraces)
-            # for a, b, c in zip(x, fraces, labels):
-            #     plt.text(a, b, c, ha='center', va='bottom', fontsize=10)
+            # plt.plot(x, sim_person_sim)
+            # for a, b, c in zip(x, sim_person_sim, sim_person_data):
+            #      plt.text(a, b, c, ha='center', va='bottom', fontsize=10)
             # plt.show()
         elif choice == '2':
             print(choice)

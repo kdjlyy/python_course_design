@@ -11,8 +11,6 @@ from bs4 import BeautifulSoup
 import re
 import json
 import urllib
-import time
-import requests
 
 people_names = []  # 爬取的用户id
 people_urls = []   # 用户主页的url
@@ -48,12 +46,13 @@ for i in range(0, user_num):
         people_names.append(name)
         people_urls.append(people_url)
 print("爬取用户完成")
-
+print(len(people_names))
 # 将用户名和用户主页的url组合成一个字典，如：
 # {
 #     'whiterhinoceros': {'people_url': 'https://movie.douban.com/people/whiterhinoceros/'},
 #     'kingfish': {'people_url': 'https://movie.douban.com/people/kingfish/'}
 # }
+
 final_data = {}
 for i in range(0, len(people_names)):
     final_data.setdefault(people_names[i], {})
@@ -114,4 +113,3 @@ file.close()
 # file = open('movie_data.json', 'r', encoding='utf-8')
 # s = json.load(file)
 # file.close()
-
