@@ -8,13 +8,15 @@ import json
 from math import sqrt
 import matplotlib.pyplot as plt
 from math import *
+import movieRecommend.user_info
 
 file = open('movie_data.json', 'r', encoding='utf-8')
 movie_data = json.load(file)
 file.close()
 
 # 这里填豆瓣id
-my_name = "180311913"
+# my_name = "180311913"
+
 sim_person = []
 sim_person_data = []
 sim_person_sim = []
@@ -122,28 +124,32 @@ def get_recommendations(data1, person, n=5, similarity=sim_pearson):
 
 def showmenu():
     prompt = """
-        (1)计算某个用户最相似的用户
-        (2)根据用户推荐电影给其他人
-        (3)计算两用户之间的相关系数
-        (Q)退出
+        (1) 计算某个用户最相似的用户
+        (2) 向用户推荐电影
+        (3) 计算两用户之间的相关系数
+        (4) 添加用户到数据集
+        (Q) 退出
         Enter choice:"""
     chosen = True
     while chosen:
-        choice = input(prompt).strip()[0].upper()
+        choice = input(prompt).upper()
         if choice == '1':
             print(choice)
             print("请输入需要计算相似率的用户：")
             user = input()
-            RES = top_matches(movie_data, user)
-            x = []
-            for i in range(len(sim_person)):
-                print(sim_person[i])
-                print(sim_person_sim[i])
-                x.append(i)
-            plt.bar(x, sim_person_sim)
-            for a, b, c in zip(x, sim_person_sim, sim_person):
-                plt.text(a, b, c, ha='center', va='bottom', fontsize=10)
-            plt.show()
+            if movieRecommend.user_info.judge_user(movie_data, user):
+                RES = top_matches(movie_data, user)
+                x = []
+                for i in range(len(sim_person)):
+                    print(sim_person[i])
+                    print(sim_person_sim[i])
+                    x.append(i)
+                plt.bar(x, sim_person_sim)
+                for a, b, c in zip(x, sim_person_sim, sim_person):
+                    plt.text(a, b, c, ha='center', va='bottom', fontsize=10)
+                plt.show()
+            else:
+                print("该用户不在数据集内！")
             # fraces = []
             # labels = []
             # x = [1, 2, 3, 4, 5]
@@ -158,24 +164,36 @@ def showmenu():
             print(choice)
             print("请输入需要被推荐电影的用户：")
             user = input()
-            Recommendations = get_recommendations(movie_data, user, 5)
-            for movie in Recommendations:
-                print(movie)
+            if movieRecommend.user_info.judge_user(movie_data, user):
+                Recommendations = get_recommendations(movie_data, user, 5)
+                for movie in Recommendations:
+                    print(movie)
+            else:
+                print("该用户不在数据集内！")
         elif choice == '3':
             print("请输入需要比较的两个用户：")
-            print("请输入第一个用户编号：")
+            print("请输入第一个用户ID：")
             user1 = input()
-            print("请输入第二个用户编号：")
+            if movieRecommend.user_info.judge_user(movie_data, user1) == False:
+                print("该用户不在数据集内！")
+                continue
+            print("请输入第二个用户ID：")
             user2 = input()
+            if movieRecommend.user_info.judge_user(movie_data, user2) == False:
+                print("该用户不在数据集内！")
+                continue
             R = sim_pearson(movie_data, user1, user2)
             print(R)
+        elif choice == '4':
+            user_add = input("请输入要添加的用户ID：")
+            movieRecommend.user_info.add_user_info(user_id=user_add)
+            file = open('movie_data.json', 'r', encoding='utf-8')
+            movie_data = json.load(file)
+            file.close()
         elif choice == 'Q':
             print("退出程序！！！")
             chosen = False
 
 if __name__ == '__main__':
-    # 打印推荐结果
-    # for res in get_recommendations(movie_data, my_name, n=5):
-    #     print(res)
     showmenu()
 

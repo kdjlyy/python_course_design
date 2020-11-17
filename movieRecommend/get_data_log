@@ -1,0 +1,2742 @@
+D:\App\anaconda3\python.exe C:/Users/kdjlyy/Desktop/codes/PythonCode/python_course_design/movieRecommend/get_data.py
+爬取用户中 ...
+正在爬取第1页的用户名 ...
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 116.209.57.39:37447
+len(comments):20
+wenzel https://movie.douban.com/people/wenzel/
+whiterhinoceros https://movie.douban.com/people/whiterhinoceros/
+kingfish https://movie.douban.com/people/kingfish/
+ruxiaoguo https://movie.douban.com/people/ruxiaoguo/
+eve42 https://movie.douban.com/people/eve42/
+madeinds https://movie.douban.com/people/madeinds/
+aixiaoke https://movie.douban.com/people/aixiaoke/
+hideinthecrowd https://movie.douban.com/people/hideinthecrowd/
+zyl622 https://movie.douban.com/people/zyl622/
+tjz230 https://movie.douban.com/people/tjz230/
+mmysl https://movie.douban.com/people/mmysl/
+melody1971 https://movie.douban.com/people/melody1971/
+xiaoxiaohong https://movie.douban.com/people/xiaoxiaohong/
+jennyqueen https://movie.douban.com/people/jennyqueen/
+Uvo https://movie.douban.com/people/Uvo/
+168467329 https://movie.douban.com/people/168467329/
+rebekah https://movie.douban.com/people/rebekah/
+xseac https://movie.douban.com/people/xseac/
+MonicaLi https://movie.douban.com/people/MonicaLi/
+onshuway https://movie.douban.com/people/onshuway/
+正在爬取第2页的用户名 ...
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 60.169.124.226:35221
+len(comments):20
+shallwinyee https://movie.douban.com/people/shallwinyee/
+lingrui1995 https://movie.douban.com/people/lingrui1995/
+ranwei https://movie.douban.com/people/ranwei/
+coffeeland https://movie.douban.com/people/coffeeland/
+1171774 https://movie.douban.com/people/1171774/
+neverblue https://movie.douban.com/people/neverblue/
+172077714 https://movie.douban.com/people/172077714/
+169089788 https://movie.douban.com/people/169089788/
+104118815 https://movie.douban.com/people/104118815/
+153249245 https://movie.douban.com/people/153249245/
+151621608 https://movie.douban.com/people/151621608/
+2431044 https://movie.douban.com/people/2431044/
+149120019 https://movie.douban.com/people/149120019/
+jimo https://movie.douban.com/people/jimo/
+154019316 https://movie.douban.com/people/154019316/
+62675594 https://movie.douban.com/people/62675594/
+147584043 https://movie.douban.com/people/147584043/
+169090174 https://movie.douban.com/people/169090174/
+169199651 https://movie.douban.com/people/169199651/
+new4new4 https://movie.douban.com/people/new4new4/
+正在爬取第3页的用户名 ...
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 111.113.72.218:18936
+len(comments):20
+172831940 https://movie.douban.com/people/172831940/
+vivipico https://movie.douban.com/people/vivipico/
+133022752 https://movie.douban.com/people/133022752/
+156928678 https://movie.douban.com/people/156928678/
+hexiaoqin https://movie.douban.com/people/hexiaoqin/
+172539038 https://movie.douban.com/people/172539038/
+flowermumu https://movie.douban.com/people/flowermumu/
+pingguohongle https://movie.douban.com/people/pingguohongle/
+66428405 https://movie.douban.com/people/66428405/
+MMT https://movie.douban.com/people/MMT/
+172890009 https://movie.douban.com/people/172890009/
+153191830 https://movie.douban.com/people/153191830/
+171231471 https://movie.douban.com/people/171231471/
+satan163 https://movie.douban.com/people/satan163/
+172649395 https://movie.douban.com/people/172649395/
+angle223 https://movie.douban.com/people/angle223/
+172466670 https://movie.douban.com/people/172466670/
+171308410 https://movie.douban.com/people/171308410/
+LadyInSatin https://movie.douban.com/people/LadyInSatin/
+172427040 https://movie.douban.com/people/172427040/
+正在爬取第4页的用户名 ...
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 123.54.237.11:35859
+len(comments):20
+156260866 https://movie.douban.com/people/156260866/
+153879820 https://movie.douban.com/people/153879820/
+147190792 https://movie.douban.com/people/147190792/
+172440815 https://movie.douban.com/people/172440815/
+139532850 https://movie.douban.com/people/139532850/
+150807637 https://movie.douban.com/people/150807637/
+145790989 https://movie.douban.com/people/145790989/
+96404793 https://movie.douban.com/people/96404793/
+172055431 https://movie.douban.com/people/172055431/
+172656583 https://movie.douban.com/people/172656583/
+kaolaxiaowu https://movie.douban.com/people/kaolaxiaowu/
+koiwai0908 https://movie.douban.com/people/koiwai0908/
+157061671 https://movie.douban.com/people/157061671/
+172535155 https://movie.douban.com/people/172535155/
+156941004 https://movie.douban.com/people/156941004/
+156004677 https://movie.douban.com/people/156004677/
+169147379 https://movie.douban.com/people/169147379/
+raquelycidas https://movie.douban.com/people/raquelycidas/
+135584913 https://movie.douban.com/people/135584913/
+mufanxuanji https://movie.douban.com/people/mufanxuanji/
+正在爬取第5页的用户名 ...
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 114.226.162.170:31339
+len(comments):20
+39994655 https://movie.douban.com/people/39994655/
+153438591 https://movie.douban.com/people/153438591/
+172395284 https://movie.douban.com/people/172395284/
+167309480 https://movie.douban.com/people/167309480/
+171644024 https://movie.douban.com/people/171644024/
+174382003 https://movie.douban.com/people/174382003/
+172655625 https://movie.douban.com/people/172655625/
+119869359 https://movie.douban.com/people/119869359/
+174108276 https://movie.douban.com/people/174108276/
+172398186 https://movie.douban.com/people/172398186/
+antonia https://movie.douban.com/people/antonia/
+158123544 https://movie.douban.com/people/158123544/
+139611792 https://movie.douban.com/people/139611792/
+162687415 https://movie.douban.com/people/162687415/
+150207756 https://movie.douban.com/people/150207756/
+169092759 https://movie.douban.com/people/169092759/
+77170120 https://movie.douban.com/people/77170120/
+69290051 https://movie.douban.com/people/69290051/
+tieliuwudi https://movie.douban.com/people/tieliuwudi/
+165023952 https://movie.douban.com/people/165023952/
+正在爬取第6页的用户名 ...
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 49.87.121.75:14881
+len(comments):20
+tieliuwudi https://movie.douban.com/people/tieliuwudi/
+165023952 https://movie.douban.com/people/165023952/
+156016222 https://movie.douban.com/people/156016222/
+172698512 https://movie.douban.com/people/172698512/
+159406773 https://movie.douban.com/people/159406773/
+1211567 https://movie.douban.com/people/1211567/
+174108276 https://movie.douban.com/people/174108276/
+155618809 https://movie.douban.com/people/155618809/
+172398186 https://movie.douban.com/people/172398186/
+57542378 https://movie.douban.com/people/57542378/
+138464613 https://movie.douban.com/people/138464613/
+143452897 https://movie.douban.com/people/143452897/
+150207756 https://movie.douban.com/people/150207756/
+adakenndy https://movie.douban.com/people/adakenndy/
+160306541 https://movie.douban.com/people/160306541/
+13419259 https://movie.douban.com/people/13419259/
+131953600 https://movie.douban.com/people/131953600/
+152765160 https://movie.douban.com/people/152765160/
+159159843 https://movie.douban.com/people/159159843/
+159554689 https://movie.douban.com/people/159554689/
+正在爬取第7页的用户名 ...
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 183.151.249.95:27164
+len(comments):20
+148179414 https://movie.douban.com/people/148179414/
+174707090 https://movie.douban.com/people/174707090/
+175622556 https://movie.douban.com/people/175622556/
+174057527 https://movie.douban.com/people/174057527/
+160848956 https://movie.douban.com/people/160848956/
+muto https://movie.douban.com/people/muto/
+145936815 https://movie.douban.com/people/145936815/
+157327327 https://movie.douban.com/people/157327327/
+48369193 https://movie.douban.com/people/48369193/
+movie007wn https://movie.douban.com/people/movie007wn/
+Fierydragon https://movie.douban.com/people/Fierydragon/
+130069436 https://movie.douban.com/people/130069436/
+ctt19950905 https://movie.douban.com/people/ctt19950905/
+49503327 https://movie.douban.com/people/49503327/
+173745421 https://movie.douban.com/people/173745421/
+159273594 https://movie.douban.com/people/159273594/
+hou26 https://movie.douban.com/people/hou26/
+fenxinyu https://movie.douban.com/people/fenxinyu/
+156929991 https://movie.douban.com/people/156929991/
+172899433 https://movie.douban.com/people/172899433/
+正在爬取第8页的用户名 ...
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 114.99.6.124:22548
+len(comments):20
+longzheking https://movie.douban.com/people/longzheking/
+174234965 https://movie.douban.com/people/174234965/
+xzyzsk7 https://movie.douban.com/people/xzyzsk7/
+155737527 https://movie.douban.com/people/155737527/
+156967679 https://movie.douban.com/people/156967679/
+155054867 https://movie.douban.com/people/155054867/
+1441177 https://movie.douban.com/people/1441177/
+nineveh https://movie.douban.com/people/nineveh/
+Zizou_Vam https://movie.douban.com/people/Zizou_Vam/
+MeloTheFisher https://movie.douban.com/people/MeloTheFisher/
+150168177 https://movie.douban.com/people/150168177/
+158629236 https://movie.douban.com/people/158629236/
+vividtime https://movie.douban.com/people/vividtime/
+174056261 https://movie.douban.com/people/174056261/
+153935526 https://movie.douban.com/people/153935526/
+158943546 https://movie.douban.com/people/158943546/
+172207961 https://movie.douban.com/people/172207961/
+158207121 https://movie.douban.com/people/158207121/
+yijia47 https://movie.douban.com/people/yijia47/
+ruo1996 https://movie.douban.com/people/ruo1996/
+正在爬取第9页的用户名 ...
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 220.179.214.152:47426
+len(comments):20
+windbo https://movie.douban.com/people/windbo/
+158929179 https://movie.douban.com/people/158929179/
+170141647 https://movie.douban.com/people/170141647/
+yihuiw https://movie.douban.com/people/yihuiw/
+ztftom https://movie.douban.com/people/ztftom/
+kirk1226 https://movie.douban.com/people/kirk1226/
+88112581 https://movie.douban.com/people/88112581/
+146074764 https://movie.douban.com/people/146074764/
+Scarlett1020 https://movie.douban.com/people/Scarlett1020/
+155974935 https://movie.douban.com/people/155974935/
+3102809 https://movie.douban.com/people/3102809/
+146643109 https://movie.douban.com/people/146643109/
+xilouchen https://movie.douban.com/people/xilouchen/
+34820112 https://movie.douban.com/people/34820112/
+161089629 https://movie.douban.com/people/161089629/
+174075169 https://movie.douban.com/people/174075169/
+paraParadise https://movie.douban.com/people/paraParadise/
+160011083 https://movie.douban.com/people/160011083/
+152930642 https://movie.douban.com/people/152930642/
+160932002 https://movie.douban.com/people/160932002/
+正在爬取第10页的用户名 ...
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 182.84.94.56:20366
+len(comments):20
+luxifaer https://movie.douban.com/people/luxifaer/
+138271036 https://movie.douban.com/people/138271036/
+crankysophia https://movie.douban.com/people/crankysophia/
+144040953 https://movie.douban.com/people/144040953/
+ydyie https://movie.douban.com/people/ydyie/
+140663653 https://movie.douban.com/people/140663653/
+148695878 https://movie.douban.com/people/148695878/
+AngelinaAnne https://movie.douban.com/people/AngelinaAnne/
+Lan.die https://movie.douban.com/people/Lan.die/
+94506833 https://movie.douban.com/people/94506833/
+136115293 https://movie.douban.com/people/136115293/
+151057424 https://movie.douban.com/people/151057424/
+170225304 https://movie.douban.com/people/170225304/
+Kev.Garnett https://movie.douban.com/people/Kev.Garnett/
+156084837 https://movie.douban.com/people/156084837/
+105512988 https://movie.douban.com/people/105512988/
+160894858 https://movie.douban.com/people/160894858/
+clarify https://movie.douban.com/people/clarify/
+160940910 https://movie.douban.com/people/160940910/
+76504161 https://movie.douban.com/people/76504161/
+爬取用户完成:  200
+爬取用户影评中...
+正在爬取第1位用户wenzel的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 125.79.14.214:32334
+get data from:https://movie.douban.com/people/wenzel/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/wenzel/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/wenzel/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/wenzel/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/wenzel/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/wenzel/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第1位用户wenzel影评信息爬取成功
+
+正在爬取第2位用户whiterhinoceros的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 115.148.66.240:19479
+get data from:https://movie.douban.com/people/whiterhinoceros/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/whiterhinoceros/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/whiterhinoceros/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/whiterhinoceros/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/whiterhinoceros/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/whiterhinoceros/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第2位用户whiterhinoceros影评信息爬取成功
+
+正在爬取第3位用户kingfish的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 121.205.216.193:11432
+get data from:https://movie.douban.com/people/kingfish/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/kingfish/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/kingfish/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/kingfish/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/kingfish/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/kingfish/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第3位用户kingfish影评信息爬取成功
+
+正在爬取第4位用户ruxiaoguo的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 122.239.157.7:34358
+get data from:https://movie.douban.com/people/ruxiaoguo/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ruxiaoguo/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ruxiaoguo/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ruxiaoguo/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ruxiaoguo/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ruxiaoguo/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第4位用户ruxiaoguo影评信息爬取成功
+
+正在爬取第5位用户eve42的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 218.74.84.40:13278
+get data from:https://movie.douban.com/people/eve42/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/eve42/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/eve42/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/eve42/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/eve42/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/eve42/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第5位用户eve42影评信息爬取成功
+
+正在爬取第6位用户madeinds的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 114.225.241.21:19978
+get data from:https://movie.douban.com/people/madeinds/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/madeinds/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/madeinds/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/madeinds/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/madeinds/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/madeinds/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第6位用户madeinds影评信息爬取成功
+
+正在爬取第7位用户aixiaoke的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 115.206.174.201:42770
+get data from:https://movie.douban.com/people/aixiaoke/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/aixiaoke/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/aixiaoke/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/aixiaoke/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/aixiaoke/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/aixiaoke/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第7位用户aixiaoke影评信息爬取成功
+
+正在爬取第8位用户hideinthecrowd的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 183.151.248.175:27634
+get data from:https://movie.douban.com/people/hideinthecrowd/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/hideinthecrowd/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/hideinthecrowd/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/hideinthecrowd/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/hideinthecrowd/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/hideinthecrowd/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第8位用户hideinthecrowd影评信息爬取成功
+
+正在爬取第9位用户zyl622的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 182.142.25.229:32319
+get data from:https://movie.douban.com/people/zyl622/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/zyl622/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/zyl622/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/zyl622/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/zyl622/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/zyl622/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第9位用户zyl622影评信息爬取成功
+
+正在爬取第10位用户tjz230的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+requests.exceptions.ProxyError!
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 39.90.92.97:12487
+get data from:https://movie.douban.com/people/tjz230/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/tjz230/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/tjz230/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/tjz230/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/tjz230/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/tjz230/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第10位用户tjz230影评信息爬取成功
+
+正在爬取第11位用户mmysl的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 124.132.119.120:16489
+get data from:https://movie.douban.com/people/mmysl/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/mmysl/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/mmysl/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/mmysl/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/mmysl/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/mmysl/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第11位用户mmysl影评信息爬取成功
+
+正在爬取第12位用户melody1971的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 182.107.174.212:15354
+get data from:https://movie.douban.com/people/melody1971/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/melody1971/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/melody1971/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/melody1971/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/melody1971/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/melody1971/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第12位用户melody1971影评信息爬取成功
+
+正在爬取第13位用户xiaoxiaohong的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 114.99.17.249:21492
+get data from:https://movie.douban.com/people/xiaoxiaohong/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xiaoxiaohong/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xiaoxiaohong/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xiaoxiaohong/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xiaoxiaohong/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xiaoxiaohong/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第13位用户xiaoxiaohong影评信息爬取成功
+
+正在爬取第14位用户jennyqueen的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 115.208.17.255:40987
+get data from:https://movie.douban.com/people/jennyqueen/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/jennyqueen/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/jennyqueen/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/jennyqueen/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/jennyqueen/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/jennyqueen/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第14位用户jennyqueen影评信息爬取成功
+
+正在爬取第15位用户Uvo的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+requests.exceptions.ProxyError!
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 27.44.219.174:19978
+get data from:https://movie.douban.com/people/Uvo/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Uvo/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Uvo/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Uvo/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Uvo/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Uvo/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第15位用户Uvo影评信息爬取成功
+
+正在爬取第16位用户168467329的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 117.89.163.228:24411
+get data from:https://movie.douban.com/people/168467329/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/168467329/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/168467329/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/168467329/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/168467329/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/168467329/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第16位用户168467329影评信息爬取成功
+
+正在爬取第17位用户rebekah的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 113.120.38.225:18922
+get data from:https://movie.douban.com/people/rebekah/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/rebekah/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/rebekah/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/rebekah/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/rebekah/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/rebekah/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第17位用户rebekah影评信息爬取成功
+
+正在爬取第18位用户xseac的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+requests.exceptions.ProxyError!
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 110.190.11.68:20178
+get data from:https://movie.douban.com/people/xseac/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xseac/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xseac/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xseac/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xseac/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xseac/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第18位用户xseac影评信息爬取成功
+
+正在爬取第19位用户MonicaLi的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 183.0.214.188:38063
+get data from:https://movie.douban.com/people/MonicaLi/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/MonicaLi/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/MonicaLi/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/MonicaLi/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/MonicaLi/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/MonicaLi/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第19位用户MonicaLi影评信息爬取成功
+
+正在爬取第20位用户onshuway的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 125.78.13.67:24882
+get data from:https://movie.douban.com/people/onshuway/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/onshuway/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/onshuway/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/onshuway/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/onshuway/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/onshuway/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第20位用户onshuway影评信息爬取成功
+
+正在爬取第21位用户shallwinyee的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 114.222.232.121:23122
+get data from:https://movie.douban.com/people/shallwinyee/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/shallwinyee/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/shallwinyee/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/shallwinyee/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/shallwinyee/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/shallwinyee/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第21位用户shallwinyee影评信息爬取成功
+
+正在爬取第22位用户lingrui1995的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 123.145.18.220:11511
+get data from:https://movie.douban.com/people/lingrui1995/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/lingrui1995/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/lingrui1995/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/lingrui1995/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/lingrui1995/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/lingrui1995/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第22位用户lingrui1995影评信息爬取成功
+
+正在爬取第23位用户ranwei的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 60.187.191.213:17772
+get data from:https://movie.douban.com/people/ranwei/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ranwei/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ranwei/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ranwei/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ranwei/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ranwei/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第23位用户ranwei影评信息爬取成功
+
+正在爬取第24位用户coffeeland的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 114.238.108.143:40637
+get data from:https://movie.douban.com/people/coffeeland/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/coffeeland/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/coffeeland/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/coffeeland/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/coffeeland/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/coffeeland/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第24位用户coffeeland影评信息爬取成功
+
+正在爬取第25位用户1171774的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 116.138.245.11:36549
+get data from:https://movie.douban.com/people/1171774/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/1171774/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/1171774/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/1171774/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/1171774/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/1171774/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第25位用户1171774影评信息爬取成功
+
+正在爬取第26位用户neverblue的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 116.209.53.217:33768
+get data from:https://movie.douban.com/people/neverblue/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/neverblue/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/neverblue/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/neverblue/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/neverblue/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/neverblue/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第26位用户neverblue影评信息爬取成功
+
+正在爬取第27位用户172077714的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 113.7.37.217:25352
+get data from:https://movie.douban.com/people/172077714/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172077714/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172077714/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172077714/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172077714/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172077714/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第27位用户172077714影评信息爬取成功
+
+正在爬取第28位用户169089788的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 123.163.118.95:26910
+get data from:https://movie.douban.com/people/169089788/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169089788/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169089788/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169089788/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169089788/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169089788/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第28位用户169089788影评信息爬取成功
+
+正在爬取第29位用户104118815的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 175.170.37.23:46995
+get data from:https://movie.douban.com/people/104118815/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/104118815/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/104118815/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/104118815/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/104118815/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/104118815/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第29位用户104118815影评信息爬取成功
+
+正在爬取第30位用户153249245的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 114.225.240.127:10193
+get data from:https://movie.douban.com/people/153249245/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153249245/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153249245/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153249245/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153249245/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153249245/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第30位用户153249245影评信息爬取成功
+
+正在爬取第31位用户151621608的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 113.206.211.149:38180
+get data from:https://movie.douban.com/people/151621608/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/151621608/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/151621608/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/151621608/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/151621608/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/151621608/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第31位用户151621608影评信息爬取成功
+
+正在爬取第32位用户2431044的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 222.78.194.175:22300
+get data from:https://movie.douban.com/people/2431044/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/2431044/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/2431044/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/2431044/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/2431044/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/2431044/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第32位用户2431044影评信息爬取成功
+
+正在爬取第33位用户149120019的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 58.62.115.2:41165
+get data from:https://movie.douban.com/people/149120019/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/149120019/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/149120019/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/149120019/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/149120019/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/149120019/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第33位用户149120019影评信息爬取成功
+
+正在爬取第34位用户jimo的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+requests.exceptions.ProxyError!
+开始调用get_proxy() ...
+r.status_code 200
+requests.exceptions.ProxyError!
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 27.157.248.100:26517
+get data from:https://movie.douban.com/people/jimo/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/jimo/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/jimo/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/jimo/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/jimo/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/jimo/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第34位用户jimo影评信息爬取成功
+
+正在爬取第35位用户154019316的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 59.50.29.18:43967
+get data from:https://movie.douban.com/people/154019316/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/154019316/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/154019316/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/154019316/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/154019316/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/154019316/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第35位用户154019316影评信息爬取成功
+
+正在爬取第36位用户62675594的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 27.201.203.172:43043
+get data from:https://movie.douban.com/people/62675594/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/62675594/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/62675594/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/62675594/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/62675594/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/62675594/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第36位用户62675594影评信息爬取成功
+
+正在爬取第37位用户147584043的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 182.105.3.166:35410
+get data from:https://movie.douban.com/people/147584043/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/147584043/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/147584043/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/147584043/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/147584043/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/147584043/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第37位用户147584043影评信息爬取成功
+
+正在爬取第38位用户169090174的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 59.35.105.166:31032
+get data from:https://movie.douban.com/people/169090174/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169090174/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169090174/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169090174/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169090174/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169090174/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第38位用户169090174影评信息爬取成功
+
+正在爬取第39位用户169199651的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 117.89.138.10:22292
+get data from:https://movie.douban.com/people/169199651/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169199651/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169199651/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169199651/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169199651/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169199651/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第39位用户169199651影评信息爬取成功
+
+正在爬取第40位用户new4new4的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 202.105.64.68:18505
+get data from:https://movie.douban.com/people/new4new4/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/new4new4/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/new4new4/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/new4new4/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/new4new4/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/new4new4/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第40位用户new4new4影评信息爬取成功
+
+正在爬取第41位用户172831940的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 59.55.32.205:38396
+get data from:https://movie.douban.com/people/172831940/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get_User_Info(people_name) Error! info_bs == None return (0)
+get_User_Info(172831940) Error, another try
+retry 1 time(s)
+正在爬取第41位用户172831940的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 182.84.133.19:35192
+get data from:https://movie.douban.com/people/172831940/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get_User_Info(people_name) Error! info_bs == None return (0)
+retry 2 time(s)
+正在爬取第41位用户172831940的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 61.191.84.156:37111
+get data from:https://movie.douban.com/people/172831940/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172831940/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172831940/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172831940/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172831940/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172831940/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第41位用户172831940影评信息爬取成功
+
+retry success!
+正在爬取第42位用户vivipico的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 183.143.62.230:44484
+get data from:https://movie.douban.com/people/vivipico/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/vivipico/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/vivipico/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/vivipico/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/vivipico/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/vivipico/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第42位用户vivipico影评信息爬取成功
+
+正在爬取第43位用户133022752的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 144.255.149.163:46473
+get data from:https://movie.douban.com/people/133022752/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/133022752/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/133022752/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/133022752/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/133022752/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/133022752/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第43位用户133022752影评信息爬取成功
+
+正在爬取第44位用户156928678的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 182.103.253.233:26281
+get data from:https://movie.douban.com/people/156928678/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156928678/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156928678/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156928678/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156928678/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156928678/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第44位用户156928678影评信息爬取成功
+
+正在爬取第45位用户hexiaoqin的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 175.172.69.90:39875
+get data from:https://movie.douban.com/people/hexiaoqin/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/hexiaoqin/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/hexiaoqin/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/hexiaoqin/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/hexiaoqin/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/hexiaoqin/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第45位用户hexiaoqin影评信息爬取成功
+
+正在爬取第46位用户172539038的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 123.163.183.49:23907
+get data from:https://movie.douban.com/people/172539038/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172539038/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172539038/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172539038/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172539038/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172539038/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第46位用户172539038影评信息爬取成功
+
+正在爬取第47位用户flowermumu的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 115.213.239.87:31457
+get data from:https://movie.douban.com/people/flowermumu/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/flowermumu/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/flowermumu/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/flowermumu/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/flowermumu/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/flowermumu/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第47位用户flowermumu影评信息爬取成功
+
+正在爬取第48位用户pingguohongle的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 180.111.110.170:19416
+get data from:https://movie.douban.com/people/pingguohongle/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/pingguohongle/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/pingguohongle/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/pingguohongle/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/pingguohongle/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/pingguohongle/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第48位用户pingguohongle影评信息爬取成功
+
+正在爬取第49位用户66428405的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 58.53.42.146:42278
+get data from:https://movie.douban.com/people/66428405/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/66428405/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/66428405/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/66428405/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/66428405/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/66428405/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第49位用户66428405影评信息爬取成功
+
+正在爬取第50位用户MMT的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 139.211.124.98:11515
+get data from:https://movie.douban.com/people/MMT/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/MMT/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/MMT/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/MMT/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/MMT/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/MMT/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第50位用户MMT影评信息爬取成功
+
+正在爬取第51位用户172890009的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 139.213.14.96:27970
+get data from:https://movie.douban.com/people/172890009/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172890009/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172890009/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172890009/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172890009/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172890009/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第51位用户172890009影评信息爬取成功
+
+正在爬取第52位用户153191830的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+requests.exceptions.ProxyError!
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 117.71.132.206:44996
+get data from:https://movie.douban.com/people/153191830/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153191830/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153191830/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153191830/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153191830/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153191830/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第52位用户153191830影评信息爬取成功
+
+正在爬取第53位用户171231471的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 183.135.102.7:31828
+get data from:https://movie.douban.com/people/171231471/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/171231471/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/171231471/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/171231471/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/171231471/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/171231471/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第53位用户171231471影评信息爬取成功
+
+正在爬取第54位用户satan163的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 117.28.88.119:45887
+get data from:https://movie.douban.com/people/satan163/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get_User_Info(people_name) Error! info_bs == None return (0)
+get_User_Info(satan163) Error, another try
+retry 1 time(s)
+正在爬取第54位用户satan163的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 114.225.240.254:13376
+get data from:https://movie.douban.com/people/satan163/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/satan163/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/satan163/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/satan163/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/satan163/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/satan163/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第54位用户satan163影评信息爬取成功
+
+retry success!
+正在爬取第55位用户172649395的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 113.206.123.151:33738
+get data from:https://movie.douban.com/people/172649395/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172649395/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172649395/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172649395/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172649395/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172649395/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第55位用户172649395影评信息爬取成功
+
+正在爬取第56位用户angle223的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 27.190.81.120:18144
+get data from:https://movie.douban.com/people/angle223/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/angle223/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/angle223/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/angle223/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/angle223/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/angle223/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第56位用户angle223影评信息爬取成功
+
+正在爬取第57位用户172466670的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 117.69.177.155:46033
+get data from:https://movie.douban.com/people/172466670/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get_User_Info(people_name) Error! in requests.get()  return (0)
+get_User_Info(172466670) Error, another try
+retry 1 time(s)
+正在爬取第57位用户172466670的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 113.117.192.253:34472
+get data from:https://movie.douban.com/people/172466670/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172466670/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172466670/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172466670/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172466670/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172466670/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第57位用户172466670影评信息爬取成功
+
+retry success!
+正在爬取第58位用户171308410的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 183.7.91.1:14706
+get data from:https://movie.douban.com/people/171308410/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/171308410/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/171308410/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/171308410/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/171308410/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/171308410/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第58位用户171308410影评信息爬取成功
+
+正在爬取第59位用户LadyInSatin的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 119.54.36.236:49643
+get data from:https://movie.douban.com/people/LadyInSatin/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/LadyInSatin/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/LadyInSatin/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/LadyInSatin/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/LadyInSatin/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/LadyInSatin/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第59位用户LadyInSatin影评信息爬取成功
+
+正在爬取第60位用户172427040的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 42.179.0.253:21438
+get data from:https://movie.douban.com/people/172427040/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172427040/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172427040/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172427040/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172427040/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172427040/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第60位用户172427040影评信息爬取成功
+
+正在爬取第61位用户156260866的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 124.92.189.137:34088
+get data from:https://movie.douban.com/people/156260866/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156260866/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156260866/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156260866/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156260866/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156260866/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第61位用户156260866影评信息爬取成功
+
+正在爬取第62位用户153879820的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 115.216.74.157:13295
+get data from:https://movie.douban.com/people/153879820/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153879820/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153879820/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153879820/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153879820/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153879820/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第62位用户153879820影评信息爬取成功
+
+正在爬取第63位用户147190792的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 182.131.107.91:26747
+get data from:https://movie.douban.com/people/147190792/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/147190792/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/147190792/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/147190792/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/147190792/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/147190792/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第63位用户147190792影评信息爬取成功
+
+正在爬取第64位用户172440815的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 222.135.119.15:12332
+get data from:https://movie.douban.com/people/172440815/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172440815/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172440815/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172440815/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172440815/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172440815/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第64位用户172440815影评信息爬取成功
+
+正在爬取第65位用户139532850的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 115.61.171.195:23103
+get data from:https://movie.douban.com/people/139532850/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/139532850/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/139532850/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/139532850/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/139532850/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/139532850/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第65位用户139532850影评信息爬取成功
+
+正在爬取第66位用户150807637的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 182.131.126.167:21926
+get data from:https://movie.douban.com/people/150807637/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/150807637/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/150807637/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/150807637/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/150807637/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/150807637/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第66位用户150807637影评信息爬取成功
+
+正在爬取第67位用户145790989的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 116.22.29.215:19632
+get data from:https://movie.douban.com/people/145790989/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/145790989/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/145790989/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/145790989/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/145790989/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/145790989/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第67位用户145790989影评信息爬取成功
+
+正在爬取第68位用户96404793的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 42.87.182.101:13698
+get data from:https://movie.douban.com/people/96404793/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/96404793/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/96404793/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/96404793/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/96404793/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/96404793/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第68位用户96404793影评信息爬取成功
+
+正在爬取第69位用户172055431的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+requests.exceptions.ProxyError!
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 27.200.27.161:26911
+get data from:https://movie.douban.com/people/172055431/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172055431/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172055431/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172055431/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172055431/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172055431/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第69位用户172055431影评信息爬取成功
+
+正在爬取第70位用户172656583的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 119.183.171.220:48823
+get data from:https://movie.douban.com/people/172656583/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172656583/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172656583/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172656583/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172656583/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172656583/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第70位用户172656583影评信息爬取成功
+
+正在爬取第71位用户kaolaxiaowu的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 180.164.100.237:24085
+get data from:https://movie.douban.com/people/kaolaxiaowu/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/kaolaxiaowu/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/kaolaxiaowu/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/kaolaxiaowu/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/kaolaxiaowu/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/kaolaxiaowu/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第71位用户kaolaxiaowu影评信息爬取成功
+
+正在爬取第72位用户koiwai0908的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 123.121.113.63:10167
+get data from:https://movie.douban.com/people/koiwai0908/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/koiwai0908/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/koiwai0908/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/koiwai0908/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/koiwai0908/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/koiwai0908/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第72位用户koiwai0908影评信息爬取成功
+
+正在爬取第73位用户157061671的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 1.63.102.253:45529
+get data from:https://movie.douban.com/people/157061671/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/157061671/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/157061671/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/157061671/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/157061671/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/157061671/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第73位用户157061671影评信息爬取成功
+
+正在爬取第74位用户172535155的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 221.210.56.222:37459
+get data from:https://movie.douban.com/people/172535155/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172535155/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172535155/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172535155/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172535155/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172535155/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第74位用户172535155影评信息爬取成功
+
+正在爬取第75位用户156941004的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 113.73.135.164:12249
+get data from:https://movie.douban.com/people/156941004/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156941004/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156941004/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156941004/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156941004/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156941004/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第75位用户156941004影评信息爬取成功
+
+正在爬取第76位用户156004677的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 218.73.51.218:20352
+get data from:https://movie.douban.com/people/156004677/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156004677/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156004677/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156004677/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156004677/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156004677/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第76位用户156004677影评信息爬取成功
+
+正在爬取第77位用户169147379的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 171.83.165.150:37348
+get data from:https://movie.douban.com/people/169147379/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169147379/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169147379/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169147379/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169147379/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169147379/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第77位用户169147379影评信息爬取成功
+
+正在爬取第78位用户raquelycidas的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 124.113.217.178:26697
+get data from:https://movie.douban.com/people/raquelycidas/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/raquelycidas/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/raquelycidas/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/raquelycidas/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/raquelycidas/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/raquelycidas/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第78位用户raquelycidas影评信息爬取成功
+
+正在爬取第79位用户135584913的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 115.207.83.127:29772
+get data from:https://movie.douban.com/people/135584913/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/135584913/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/135584913/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/135584913/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/135584913/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/135584913/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第79位用户135584913影评信息爬取成功
+
+正在爬取第80位用户mufanxuanji的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 117.69.178.49:25467
+get data from:https://movie.douban.com/people/mufanxuanji/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/mufanxuanji/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/mufanxuanji/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/mufanxuanji/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/mufanxuanji/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/mufanxuanji/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第80位用户mufanxuanji影评信息爬取成功
+
+正在爬取第81位用户39994655的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 123.163.181.109:46441
+get data from:https://movie.douban.com/people/39994655/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/39994655/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/39994655/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/39994655/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/39994655/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/39994655/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第81位用户39994655影评信息爬取成功
+
+正在爬取第82位用户153438591的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 183.148.138.58:13457
+get data from:https://movie.douban.com/people/153438591/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153438591/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153438591/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153438591/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153438591/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153438591/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第82位用户153438591影评信息爬取成功
+
+正在爬取第83位用户172395284的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 113.117.119.74:23718
+get data from:https://movie.douban.com/people/172395284/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172395284/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172395284/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172395284/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172395284/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172395284/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第83位用户172395284影评信息爬取成功
+
+正在爬取第84位用户167309480的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 219.130.170.43:14555
+get data from:https://movie.douban.com/people/167309480/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/167309480/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/167309480/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/167309480/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/167309480/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/167309480/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第84位用户167309480影评信息爬取成功
+
+正在爬取第85位用户171644024的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 123.115.206.40:25536
+get data from:https://movie.douban.com/people/171644024/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/171644024/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/171644024/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/171644024/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/171644024/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/171644024/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第85位用户171644024影评信息爬取成功
+
+正在爬取第86位用户174382003的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 117.28.4.174:23401
+get data from:https://movie.douban.com/people/174382003/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174382003/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174382003/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174382003/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174382003/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174382003/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第86位用户174382003影评信息爬取成功
+
+正在爬取第87位用户172655625的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 125.87.102.14:46130
+get data from:https://movie.douban.com/people/172655625/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172655625/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172655625/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172655625/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172655625/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172655625/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第87位用户172655625影评信息爬取成功
+
+正在爬取第88位用户119869359的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 123.146.3.160:41277
+get data from:https://movie.douban.com/people/119869359/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/119869359/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/119869359/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/119869359/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/119869359/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/119869359/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第88位用户119869359影评信息爬取成功
+
+正在爬取第89位用户174108276的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 113.206.198.60:15677
+get data from:https://movie.douban.com/people/174108276/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174108276/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174108276/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174108276/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174108276/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174108276/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第89位用户174108276影评信息爬取成功
+
+正在爬取第90位用户172398186的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 171.114.210.20:31487
+get data from:https://movie.douban.com/people/172398186/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172398186/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172398186/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172398186/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172398186/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172398186/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第90位用户172398186影评信息爬取成功
+
+正在爬取第91位用户antonia的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+requests.exceptions.ProxyError!
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 123.53.118.106:37995
+get data from:https://movie.douban.com/people/antonia/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/antonia/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/antonia/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/antonia/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/antonia/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/antonia/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第91位用户antonia影评信息爬取成功
+
+正在爬取第92位用户158123544的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 113.219.114.210:33235
+get data from:https://movie.douban.com/people/158123544/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158123544/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158123544/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158123544/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158123544/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158123544/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第92位用户158123544影评信息爬取成功
+
+正在爬取第93位用户139611792的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 171.95.33.218:48560
+get data from:https://movie.douban.com/people/139611792/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/139611792/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/139611792/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/139611792/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/139611792/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/139611792/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第93位用户139611792影评信息爬取成功
+
+正在爬取第94位用户162687415的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 59.63.102.110:36049
+get data from:https://movie.douban.com/people/162687415/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get_User_Info(people_name) Error! info_bs == None return (0)
+get_User_Info(162687415) Error, another try
+retry 1 time(s)
+正在爬取第94位用户162687415的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 27.157.159.247:48622
+get data from:https://movie.douban.com/people/162687415/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/162687415/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/162687415/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/162687415/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/162687415/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/162687415/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第94位用户162687415影评信息爬取成功
+
+retry success!
+正在爬取第95位用户150207756的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+status_code=403 another try ...
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 59.63.53.138:42526
+get data from:https://movie.douban.com/people/150207756/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/150207756/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/150207756/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/150207756/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/150207756/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/150207756/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第95位用户150207756影评信息爬取成功
+
+正在爬取第96位用户169092759的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 116.28.53.6:40668
+get data from:https://movie.douban.com/people/169092759/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169092759/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169092759/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169092759/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169092759/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get_User_Info(people_name) Error! in requests.get()  return (0)
+get_User_Info(169092759) Error, another try
+retry 1 time(s)
+正在爬取第96位用户169092759的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 183.136.55.246:19868
+get data from:https://movie.douban.com/people/169092759/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169092759/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169092759/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169092759/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169092759/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/169092759/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第96位用户169092759影评信息爬取成功
+
+retry success!
+正在爬取第97位用户77170120的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 114.104.138.27:15057
+get data from:https://movie.douban.com/people/77170120/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/77170120/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/77170120/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/77170120/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/77170120/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/77170120/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第97位用户77170120影评信息爬取成功
+
+正在爬取第98位用户69290051的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 113.128.123.143:20297
+get data from:https://movie.douban.com/people/69290051/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/69290051/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/69290051/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/69290051/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/69290051/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/69290051/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第98位用户69290051影评信息爬取成功
+
+正在爬取第99位用户tieliuwudi的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 106.46.155.65:33140
+get data from:https://movie.douban.com/people/tieliuwudi/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/tieliuwudi/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/tieliuwudi/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/tieliuwudi/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/tieliuwudi/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/tieliuwudi/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第99位用户tieliuwudi影评信息爬取成功
+
+正在爬取第100位用户165023952的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 115.219.7.150:24383
+get data from:https://movie.douban.com/people/165023952/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/165023952/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/165023952/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/165023952/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/165023952/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/165023952/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第100位用户165023952影评信息爬取成功
+
+正在爬取第101位用户156016222的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 115.148.184.136:12473
+get data from:https://movie.douban.com/people/156016222/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156016222/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156016222/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156016222/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156016222/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156016222/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第101位用户156016222影评信息爬取成功
+
+正在爬取第102位用户172698512的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 117.95.195.162:16113
+get data from:https://movie.douban.com/people/172698512/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172698512/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172698512/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172698512/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172698512/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172698512/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第102位用户172698512影评信息爬取成功
+
+正在爬取第103位用户159406773的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 183.136.121.236:48180
+get data from:https://movie.douban.com/people/159406773/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159406773/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159406773/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159406773/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159406773/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159406773/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第103位用户159406773影评信息爬取成功
+
+正在爬取第104位用户1211567的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 120.43.135.164:44596
+get data from:https://movie.douban.com/people/1211567/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/1211567/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/1211567/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/1211567/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/1211567/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/1211567/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第104位用户1211567影评信息爬取成功
+
+正在爬取第105位用户155618809的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 175.175.194.117:43148
+get data from:https://movie.douban.com/people/155618809/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155618809/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155618809/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155618809/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155618809/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155618809/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第105位用户155618809影评信息爬取成功
+
+正在爬取第106位用户57542378的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+requests.exceptions.ProxyError!
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 220.161.243.85:48566
+get data from:https://movie.douban.com/people/57542378/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/57542378/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/57542378/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/57542378/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/57542378/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/57542378/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第106位用户57542378影评信息爬取成功
+
+正在爬取第107位用户138464613的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+requests.exceptions.ProxyError!
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 124.92.177.206:40671
+get data from:https://movie.douban.com/people/138464613/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/138464613/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/138464613/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/138464613/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get_User_Info(people_name) Error! in requests.get()  return (0)
+get_User_Info(138464613) Error, another try
+retry 1 time(s)
+正在爬取第107位用户138464613的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 110.190.21.5:29268
+get data from:https://movie.douban.com/people/138464613/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/138464613/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/138464613/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/138464613/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/138464613/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/138464613/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第107位用户138464613影评信息爬取成功
+
+retry success!
+正在爬取第108位用户143452897的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 123.160.225.150:38140
+get data from:https://movie.douban.com/people/143452897/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/143452897/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/143452897/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/143452897/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/143452897/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/143452897/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第108位用户143452897影评信息爬取成功
+
+正在爬取第109位用户adakenndy的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 59.35.243.67:15536
+get data from:https://movie.douban.com/people/adakenndy/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/adakenndy/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/adakenndy/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/adakenndy/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/adakenndy/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/adakenndy/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第109位用户adakenndy影评信息爬取成功
+
+正在爬取第110位用户160306541的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 221.231.72.75:33922
+get data from:https://movie.douban.com/people/160306541/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160306541/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160306541/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160306541/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160306541/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160306541/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第110位用户160306541影评信息爬取成功
+
+正在爬取第111位用户13419259的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 175.149.94.85:33320
+get data from:https://movie.douban.com/people/13419259/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/13419259/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/13419259/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/13419259/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/13419259/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/13419259/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第111位用户13419259影评信息爬取成功
+
+正在爬取第112位用户131953600的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 221.9.152.225:37651
+get data from:https://movie.douban.com/people/131953600/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/131953600/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/131953600/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/131953600/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/131953600/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/131953600/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第112位用户131953600影评信息爬取成功
+
+正在爬取第113位用户152765160的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 42.57.211.150:30606
+get data from:https://movie.douban.com/people/152765160/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/152765160/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/152765160/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/152765160/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/152765160/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/152765160/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第113位用户152765160影评信息爬取成功
+
+正在爬取第114位用户159159843的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 119.133.16.86:21096
+get data from:https://movie.douban.com/people/159159843/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159159843/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159159843/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159159843/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159159843/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159159843/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第114位用户159159843影评信息爬取成功
+
+正在爬取第115位用户159554689的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 220.160.205.80:42788
+get data from:https://movie.douban.com/people/159554689/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get_User_Info(people_name) Error! info_bs == None return (0)
+get_User_Info(159554689) Error, another try
+retry 1 time(s)
+正在爬取第115位用户159554689的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 27.201.57.127:30041
+get data from:https://movie.douban.com/people/159554689/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159554689/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159554689/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159554689/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159554689/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159554689/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第115位用户159554689影评信息爬取成功
+
+retry success!
+正在爬取第116位用户148179414的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 115.226.22.254:11877
+get data from:https://movie.douban.com/people/148179414/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/148179414/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/148179414/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/148179414/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/148179414/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/148179414/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第116位用户148179414影评信息爬取成功
+
+正在爬取第117位用户174707090的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 117.86.15.10:37340
+get data from:https://movie.douban.com/people/174707090/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174707090/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174707090/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174707090/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174707090/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174707090/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第117位用户174707090影评信息爬取成功
+
+正在爬取第118位用户175622556的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 27.10.242.227:25681
+get data from:https://movie.douban.com/people/175622556/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/175622556/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/175622556/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/175622556/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/175622556/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/175622556/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第118位用户175622556影评信息爬取成功
+
+正在爬取第119位用户174057527的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 117.21.111.60:30844
+get data from:https://movie.douban.com/people/174057527/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174057527/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174057527/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174057527/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174057527/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174057527/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第119位用户174057527影评信息爬取成功
+
+正在爬取第120位用户160848956的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 124.132.119.120:42257
+get data from:https://movie.douban.com/people/160848956/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160848956/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160848956/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160848956/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160848956/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160848956/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第120位用户160848956影评信息爬取成功
+
+正在爬取第121位用户muto的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 182.107.161.248:27592
+get data from:https://movie.douban.com/people/muto/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/muto/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/muto/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/muto/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/muto/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/muto/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第121位用户muto影评信息爬取成功
+
+正在爬取第122位用户145936815的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 125.66.55.149:32115
+get data from:https://movie.douban.com/people/145936815/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/145936815/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/145936815/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/145936815/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/145936815/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/145936815/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第122位用户145936815影评信息爬取成功
+
+正在爬取第123位用户157327327的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 110.190.0.36:35531
+get data from:https://movie.douban.com/people/157327327/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/157327327/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/157327327/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/157327327/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/157327327/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/157327327/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第123位用户157327327影评信息爬取成功
+
+正在爬取第124位用户48369193的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 115.213.145.148:11364
+get data from:https://movie.douban.com/people/48369193/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/48369193/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/48369193/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/48369193/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/48369193/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/48369193/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第124位用户48369193影评信息爬取成功
+
+正在爬取第125位用户movie007wn的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 115.148.187.132:18069
+get data from:https://movie.douban.com/people/movie007wn/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/movie007wn/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/movie007wn/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/movie007wn/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/movie007wn/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/movie007wn/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第125位用户movie007wn影评信息爬取成功
+
+正在爬取第126位用户Fierydragon的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 61.167.230.100:45260
+get data from:https://movie.douban.com/people/Fierydragon/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Fierydragon/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Fierydragon/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Fierydragon/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Fierydragon/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Fierydragon/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第126位用户Fierydragon影评信息爬取成功
+
+正在爬取第127位用户130069436的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 122.239.128.143:41614
+get data from:https://movie.douban.com/people/130069436/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/130069436/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/130069436/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get_User_Info(people_name) Error! in requests.get()  return (0)
+get_User_Info(130069436) Error, another try
+retry 1 time(s)
+正在爬取第127位用户130069436的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+status_code=403 another try ...
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 111.126.95.48:10524
+get data from:https://movie.douban.com/people/130069436/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/130069436/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/130069436/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/130069436/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/130069436/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/130069436/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第127位用户130069436影评信息爬取成功
+
+retry success!
+正在爬取第128位用户ctt19950905的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 202.110.7.157:19640
+get data from:https://movie.douban.com/people/ctt19950905/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ctt19950905/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ctt19950905/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ctt19950905/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ctt19950905/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ctt19950905/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第128位用户ctt19950905影评信息爬取成功
+
+正在爬取第129位用户49503327的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 115.219.3.95:20997
+get data from:https://movie.douban.com/people/49503327/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/49503327/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/49503327/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/49503327/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/49503327/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/49503327/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第129位用户49503327影评信息爬取成功
+
+正在爬取第130位用户173745421的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+requests.exceptions.ProxyError!
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 114.99.3.157:12640
+get data from:https://movie.douban.com/people/173745421/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/173745421/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/173745421/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/173745421/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/173745421/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/173745421/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第130位用户173745421影评信息爬取成功
+
+正在爬取第131位用户159273594的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 220.161.33.39:17365
+get data from:https://movie.douban.com/people/159273594/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159273594/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159273594/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159273594/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159273594/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/159273594/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第131位用户159273594影评信息爬取成功
+
+正在爬取第132位用户hou26的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 113.243.243.85:48771
+get data from:https://movie.douban.com/people/hou26/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/hou26/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/hou26/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/hou26/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/hou26/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/hou26/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第132位用户hou26影评信息爬取成功
+
+正在爬取第133位用户fenxinyu的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 61.167.230.39:33188
+get data from:https://movie.douban.com/people/fenxinyu/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/fenxinyu/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/fenxinyu/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/fenxinyu/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/fenxinyu/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/fenxinyu/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第133位用户fenxinyu影评信息爬取成功
+
+正在爬取第134位用户156929991的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 119.50.111.70:28232
+get data from:https://movie.douban.com/people/156929991/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156929991/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156929991/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156929991/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156929991/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156929991/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第134位用户156929991影评信息爬取成功
+
+正在爬取第135位用户172899433的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 114.230.27.45:28464
+get data from:https://movie.douban.com/people/172899433/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172899433/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172899433/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172899433/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172899433/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172899433/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第135位用户172899433影评信息爬取成功
+
+正在爬取第136位用户longzheking的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 175.172.245.165:45404
+get data from:https://movie.douban.com/people/longzheking/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/longzheking/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/longzheking/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/longzheking/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/longzheking/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/longzheking/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第136位用户longzheking影评信息爬取成功
+
+正在爬取第137位用户174234965的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 27.203.6.206:12507
+get data from:https://movie.douban.com/people/174234965/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174234965/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174234965/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174234965/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174234965/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174234965/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第137位用户174234965影评信息爬取成功
+
+正在爬取第138位用户xzyzsk7的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 111.177.189.104:46185
+get data from:https://movie.douban.com/people/xzyzsk7/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xzyzsk7/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xzyzsk7/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xzyzsk7/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xzyzsk7/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xzyzsk7/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第138位用户xzyzsk7影评信息爬取成功
+
+正在爬取第139位用户155737527的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 118.118.37.17:21673
+get data from:https://movie.douban.com/people/155737527/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155737527/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155737527/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155737527/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155737527/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155737527/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第139位用户155737527影评信息爬取成功
+
+正在爬取第140位用户156967679的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 222.189.191.88:32659
+get data from:https://movie.douban.com/people/156967679/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156967679/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156967679/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156967679/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156967679/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156967679/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第140位用户156967679影评信息爬取成功
+
+正在爬取第141位用户155054867的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+requests.exceptions.ProxyError!
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 112.247.252.154:19099
+get data from:https://movie.douban.com/people/155054867/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155054867/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155054867/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155054867/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155054867/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155054867/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第141位用户155054867影评信息爬取成功
+
+正在爬取第142位用户1441177的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 121.17.87.39:32787
+get data from:https://movie.douban.com/people/1441177/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/1441177/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/1441177/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/1441177/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/1441177/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/1441177/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第142位用户1441177影评信息爬取成功
+
+正在爬取第143位用户nineveh的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 42.179.0.190:28598
+get data from:https://movie.douban.com/people/nineveh/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/nineveh/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/nineveh/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/nineveh/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/nineveh/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/nineveh/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第143位用户nineveh影评信息爬取成功
+
+正在爬取第144位用户Zizou_Vam的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 139.208.107.118:28160
+get data from:https://movie.douban.com/people/Zizou_Vam/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Zizou_Vam/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Zizou_Vam/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Zizou_Vam/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Zizou_Vam/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Zizou_Vam/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第144位用户Zizou_Vam影评信息爬取成功
+
+正在爬取第145位用户MeloTheFisher的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 60.184.195.66:34458
+get data from:https://movie.douban.com/people/MeloTheFisher/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/MeloTheFisher/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/MeloTheFisher/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/MeloTheFisher/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/MeloTheFisher/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/MeloTheFisher/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第145位用户MeloTheFisher影评信息爬取成功
+
+正在爬取第146位用户150168177的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 59.62.204.81:34410
+get data from:https://movie.douban.com/people/150168177/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/150168177/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/150168177/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/150168177/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/150168177/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/150168177/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第146位用户150168177影评信息爬取成功
+
+正在爬取第147位用户158629236的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 112.243.157.163:40326
+get data from:https://movie.douban.com/people/158629236/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158629236/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158629236/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158629236/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158629236/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158629236/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第147位用户158629236影评信息爬取成功
+
+正在爬取第148位用户vividtime的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 117.89.95.47:14184
+get data from:https://movie.douban.com/people/vividtime/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/vividtime/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/vividtime/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/vividtime/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/vividtime/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/vividtime/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第148位用户vividtime影评信息爬取成功
+
+正在爬取第149位用户174056261的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 121.207.92.11:47622
+get data from:https://movie.douban.com/people/174056261/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174056261/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174056261/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174056261/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174056261/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174056261/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第149位用户174056261影评信息爬取成功
+
+正在爬取第150位用户153935526的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 117.69.151.113:33081
+get data from:https://movie.douban.com/people/153935526/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153935526/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153935526/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153935526/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153935526/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/153935526/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第150位用户153935526影评信息爬取成功
+
+正在爬取第151位用户158943546的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 180.119.92.137:37846
+get data from:https://movie.douban.com/people/158943546/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158943546/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158943546/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158943546/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158943546/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158943546/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第151位用户158943546影评信息爬取成功
+
+正在爬取第152位用户172207961的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 58.21.137.50:10990
+get data from:https://movie.douban.com/people/172207961/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172207961/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172207961/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172207961/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172207961/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/172207961/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第152位用户172207961影评信息爬取成功
+
+正在爬取第153位用户158207121的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+status_code=403 another try ...
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 42.179.3.225:26689
+get data from:https://movie.douban.com/people/158207121/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158207121/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158207121/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158207121/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158207121/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158207121/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第153位用户158207121影评信息爬取成功
+
+正在爬取第154位用户yijia47的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 27.203.248.74:15236
+get data from:https://movie.douban.com/people/yijia47/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/yijia47/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/yijia47/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/yijia47/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/yijia47/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/yijia47/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第154位用户yijia47影评信息爬取成功
+
+正在爬取第155位用户ruo1996的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 119.54.27.196:36616
+get data from:https://movie.douban.com/people/ruo1996/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ruo1996/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ruo1996/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ruo1996/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ruo1996/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ruo1996/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第155位用户ruo1996影评信息爬取成功
+
+正在爬取第156位用户windbo的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 182.142.43.176:39652
+get data from:https://movie.douban.com/people/windbo/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/windbo/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/windbo/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/windbo/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/windbo/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/windbo/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第156位用户windbo影评信息爬取成功
+
+正在爬取第157位用户158929179的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 113.120.39.196:15485
+get data from:https://movie.douban.com/people/158929179/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158929179/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158929179/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158929179/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158929179/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/158929179/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第157位用户158929179影评信息爬取成功
+
+正在爬取第158位用户170141647的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 60.212.231.67:12409
+get data from:https://movie.douban.com/people/170141647/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/170141647/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/170141647/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/170141647/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/170141647/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/170141647/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第158位用户170141647影评信息爬取成功
+
+正在爬取第159位用户yihuiw的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 222.161.143.146:29969
+get data from:https://movie.douban.com/people/yihuiw/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/yihuiw/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/yihuiw/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/yihuiw/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/yihuiw/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/yihuiw/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第159位用户yihuiw影评信息爬取成功
+
+正在爬取第160位用户ztftom的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 110.90.137.5:17396
+get data from:https://movie.douban.com/people/ztftom/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ztftom/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ztftom/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ztftom/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ztftom/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ztftom/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第160位用户ztftom影评信息爬取成功
+
+正在爬取第161位用户kirk1226的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 122.4.41.121:11713
+get data from:https://movie.douban.com/people/kirk1226/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/kirk1226/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/kirk1226/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/kirk1226/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/kirk1226/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/kirk1226/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第161位用户kirk1226影评信息爬取成功
+
+正在爬取第162位用户88112581的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 42.4.119.247:14656
+get data from:https://movie.douban.com/people/88112581/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/88112581/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/88112581/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/88112581/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/88112581/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/88112581/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第162位用户88112581影评信息爬取成功
+
+正在爬取第163位用户146074764的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 113.228.105.21:38075
+get data from:https://movie.douban.com/people/146074764/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/146074764/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/146074764/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/146074764/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/146074764/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/146074764/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第163位用户146074764影评信息爬取成功
+
+正在爬取第164位用户Scarlett1020的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 221.207.86.240:22706
+get data from:https://movie.douban.com/people/Scarlett1020/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Scarlett1020/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Scarlett1020/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Scarlett1020/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Scarlett1020/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Scarlett1020/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第164位用户Scarlett1020影评信息爬取成功
+
+正在爬取第165位用户155974935的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 60.166.180.3:24891
+get data from:https://movie.douban.com/people/155974935/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155974935/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155974935/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155974935/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155974935/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/155974935/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第165位用户155974935影评信息爬取成功
+
+正在爬取第166位用户3102809的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 218.67.39.46:27668
+get data from:https://movie.douban.com/people/3102809/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/3102809/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/3102809/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/3102809/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/3102809/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/3102809/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第166位用户3102809影评信息爬取成功
+
+正在爬取第167位用户146643109的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 39.90.102.252:31879
+get data from:https://movie.douban.com/people/146643109/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/146643109/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/146643109/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/146643109/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/146643109/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/146643109/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第167位用户146643109影评信息爬取成功
+
+正在爬取第168位用户xilouchen的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 119.132.108.167:47789
+get data from:https://movie.douban.com/people/xilouchen/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xilouchen/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xilouchen/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xilouchen/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xilouchen/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/xilouchen/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第168位用户xilouchen影评信息爬取成功
+
+正在爬取第169位用户34820112的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 183.163.164.111:27588
+get data from:https://movie.douban.com/people/34820112/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/34820112/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/34820112/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/34820112/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/34820112/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/34820112/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第169位用户34820112影评信息爬取成功
+
+正在爬取第170位用户161089629的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 119.183.183.50:34635
+get data from:https://movie.douban.com/people/161089629/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/161089629/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/161089629/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/161089629/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/161089629/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/161089629/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第170位用户161089629影评信息爬取成功
+
+正在爬取第171位用户174075169的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 182.103.254.164:47280
+get data from:https://movie.douban.com/people/174075169/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174075169/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174075169/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174075169/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174075169/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/174075169/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第171位用户174075169影评信息爬取成功
+
+正在爬取第172位用户paraParadise的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 117.31.76.8:21386
+get data from:https://movie.douban.com/people/paraParadise/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/paraParadise/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/paraParadise/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/paraParadise/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/paraParadise/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/paraParadise/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第172位用户paraParadise影评信息爬取成功
+
+正在爬取第173位用户160011083的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 202.96.133.218:39725
+get data from:https://movie.douban.com/people/160011083/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160011083/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160011083/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160011083/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160011083/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160011083/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第173位用户160011083影评信息爬取成功
+
+正在爬取第174位用户152930642的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 1.194.120.221:20280
+get data from:https://movie.douban.com/people/152930642/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/152930642/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/152930642/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/152930642/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/152930642/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/152930642/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第174位用户152930642影评信息爬取成功
+
+正在爬取第175位用户160932002的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+requests.exceptions.ProxyError!
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 115.226.132.70:43941
+get data from:https://movie.douban.com/people/160932002/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160932002/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160932002/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160932002/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160932002/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160932002/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第175位用户160932002影评信息爬取成功
+
+正在爬取第176位用户luxifaer的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 218.27.29.123:48367
+get data from:https://movie.douban.com/people/luxifaer/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/luxifaer/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/luxifaer/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/luxifaer/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/luxifaer/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/luxifaer/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第176位用户luxifaer影评信息爬取成功
+
+正在爬取第177位用户138271036的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 59.53.242.237:18841
+get data from:https://movie.douban.com/people/138271036/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/138271036/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/138271036/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/138271036/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/138271036/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/138271036/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第177位用户138271036影评信息爬取成功
+
+正在爬取第178位用户crankysophia的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 121.206.9.253:15105
+get data from:https://movie.douban.com/people/crankysophia/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/crankysophia/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/crankysophia/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/crankysophia/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/crankysophia/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/crankysophia/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第178位用户crankysophia影评信息爬取成功
+
+正在爬取第179位用户144040953的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 113.101.151.226:21710
+get data from:https://movie.douban.com/people/144040953/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/144040953/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/144040953/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/144040953/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/144040953/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/144040953/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第179位用户144040953影评信息爬取成功
+
+正在爬取第180位用户ydyie的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 110.247.118.240:31222
+get data from:https://movie.douban.com/people/ydyie/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ydyie/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ydyie/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ydyie/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ydyie/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/ydyie/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第180位用户ydyie影评信息爬取成功
+
+正在爬取第181位用户140663653的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 61.180.50.108:22664
+get data from:https://movie.douban.com/people/140663653/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/140663653/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/140663653/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/140663653/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/140663653/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/140663653/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第181位用户140663653影评信息爬取成功
+
+正在爬取第182位用户148695878的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 60.186.94.250:20408
+get data from:https://movie.douban.com/people/148695878/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/148695878/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/148695878/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/148695878/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/148695878/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/148695878/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第182位用户148695878影评信息爬取成功
+
+正在爬取第183位用户AngelinaAnne的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 113.128.123.210:42837
+get data from:https://movie.douban.com/people/AngelinaAnne/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/AngelinaAnne/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/AngelinaAnne/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/AngelinaAnne/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/AngelinaAnne/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/AngelinaAnne/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第183位用户AngelinaAnne影评信息爬取成功
+
+正在爬取第184位用户Lan.die的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 112.250.15.107:28374
+get data from:https://movie.douban.com/people/Lan.die/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Lan.die/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Lan.die/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Lan.die/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Lan.die/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Lan.die/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第184位用户Lan.die影评信息爬取成功
+
+正在爬取第185位用户94506833的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 119.85.12.229:13371
+get data from:https://movie.douban.com/people/94506833/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/94506833/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/94506833/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/94506833/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/94506833/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/94506833/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第185位用户94506833影评信息爬取成功
+
+正在爬取第186位用户136115293的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 182.34.220.174:39971
+get data from:https://movie.douban.com/people/136115293/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/136115293/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/136115293/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/136115293/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/136115293/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/136115293/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第186位用户136115293影评信息爬取成功
+
+正在爬取第187位用户151057424的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 175.18.30.170:16829
+get data from:https://movie.douban.com/people/151057424/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/151057424/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/151057424/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/151057424/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/151057424/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/151057424/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第187位用户151057424影评信息爬取成功
+
+正在爬取第188位用户170225304的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+requests.exceptions.ProxyError!
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 118.118.34.246:30288
+get data from:https://movie.douban.com/people/170225304/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/170225304/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/170225304/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/170225304/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/170225304/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/170225304/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第188位用户170225304影评信息爬取成功
+
+正在爬取第189位用户Kev.Garnett的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 122.239.186.28:41733
+get data from:https://movie.douban.com/people/Kev.Garnett/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Kev.Garnett/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Kev.Garnett/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Kev.Garnett/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Kev.Garnett/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/Kev.Garnett/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第189位用户Kev.Garnett影评信息爬取成功
+
+正在爬取第190位用户156084837的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+requests.exceptions.ProxyError!
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 101.29.67.92:49349
+get data from:https://movie.douban.com/people/156084837/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156084837/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156084837/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156084837/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156084837/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/156084837/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第190位用户156084837影评信息爬取成功
+
+正在爬取第191位用户105512988的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 182.131.113.152:35970
+get data from:https://movie.douban.com/people/105512988/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/105512988/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/105512988/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/105512988/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/105512988/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/105512988/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第191位用户105512988影评信息爬取成功
+
+正在爬取第192位用户160894858的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+requests.exceptions.ProxyError!
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 49.74.55.194:17455
+get data from:https://movie.douban.com/people/160894858/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160894858/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160894858/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160894858/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160894858/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160894858/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第192位用户160894858影评信息爬取成功
+
+正在爬取第193位用户clarify的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 110.188.193.254:40749
+get data from:https://movie.douban.com/people/clarify/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/clarify/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/clarify/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/clarify/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/clarify/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/clarify/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第193位用户clarify影评信息爬取成功
+
+正在爬取第194位用户160940910的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 114.99.19.4:13092
+get data from:https://movie.douban.com/people/160940910/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160940910/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160940910/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160940910/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160940910/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/160940910/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第194位用户160940910影评信息爬取成功
+
+正在爬取第195位用户76504161的影评信息
+开始调用get_proxy() ...
+r.status_code 200
+get ip succcess: 123.101.110.40:23213
+get data from:https://movie.douban.com/people/76504161/collect?start=0&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/76504161/collect?start=15&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/76504161/collect?start=30&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/76504161/collect?start=45&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/76504161/collect?start=60&sort=time&rating=all&filter=all&mode=grid
+get data from:https://movie.douban.com/people/76504161/collect?start=75&sort=time&rating=all&filter=all&mode=grid
+第195位用户76504161影评信息爬取成功
+
+爬取用户影评完成
+
+进程已结束,退出代码0
