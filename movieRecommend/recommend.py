@@ -10,13 +10,6 @@ import matplotlib.pyplot as plt
 from math import *
 import movieRecommend.user_info
 
-file = open('movie_data.json', 'r', encoding='utf-8')
-movie_data = json.load(file)
-file.close()
-
-# 这里填豆瓣id
-# my_name = "180311913"
-
 sim_person = []
 sim_person_data = []
 sim_person_sim = []
@@ -123,6 +116,10 @@ def get_recommendations(data1, person, n=5, similarity=sim_pearson):
     return rankings[0:n]
 
 def showmenu():
+    file = open('movie_data.json', 'r', encoding='utf-8')
+    movie_data = json.load(file)
+    file.close()
+
     prompt = """
         (1) 计算某个用户最相似的用户
         (2) 向用户推荐电影
