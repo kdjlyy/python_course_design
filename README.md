@@ -5,7 +5,7 @@
 **recommend.py** 使用协同过滤算法推荐电影
 
 **user_data.json** 保存用户id和主页url(未使用)  
-**movie_data.json** 保存用户和影评信息
+**movie_data.json** 保存用户和影评信息  
 **get_data_log** get_data.py爬取数据的日志信息
 
 ***注：***   
