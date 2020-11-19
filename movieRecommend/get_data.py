@@ -139,8 +139,8 @@ def get_User_Info(people_name):
             return 0
 
         bs = BeautifulSoup(comment_data, 'html.parser')
-
         info_bs = bs.find("div", {"class": "grid-view"})
+
         if info_bs is None:
             print("get_User_Info(people_name) Error! info_bs == None return (0)")
             return 0

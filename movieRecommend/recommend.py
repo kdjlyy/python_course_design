@@ -141,8 +141,8 @@ def showmenu():
                     print(sim_person[i])
                     print(sim_person_sim[i])
                     x.append(i)
-                plt.bar(x, sim_person_sim)
-                for a, b, c in zip(x, sim_person_sim, sim_person):
+                plt.bar(x[:5], sim_person_sim[:5])
+                for a, b, c in zip(x[:5], sim_person_sim, sim_person):
                     plt.text(a, b, c, ha='center', va='bottom', fontsize=10)
                 plt.show()
             else:
