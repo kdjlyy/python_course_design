@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
-"""
-爬取豆瓣某影视的评分前100个用户，将他们的影评信息抓取下来作为movie.json
-为了保证数据的可靠性，选择豆瓣电影top250 No.1的【肖申克的救赎】，热门影评的前100人作为数据：
-https://movie.douban.com/subject/1292052/comments?start=0&limit=20&sort=new_score&status=P&percent_type=
-"""
+# 爬取用户信息和影评信息
+# 此模块从豆瓣网站爬取用户信息，为了保证数据的可靠性，选择豆瓣电影top250 No.1的【肖申克的救赎】，热门影评的前100人作为数据：
+# https://movie.douban.com/subject/1292052/comments?start=0&limit=20&sort=new_score&status=P&percent_type=
+#
+# created by 徐智沛 李晓宇 苏正棚 许都礼
+# copyright USTC
+# 11.29.2020
 
 from bs4 import BeautifulSoup
 import re
@@ -24,10 +26,11 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
                   'Chrome/74.0.3724.8 Safari/537.36',
     'Referer': 'https://movie.douban.com/subject/1292052/comments',
-    'Connection': 'close'  # 'keep-alive'
+    'Connection': 'close'
 }
 
 # 代理网站生成的API链接，调用HTTP GET请求即可返回所需的IP结果
+# targetUrl: 获取代理IP的网站
 def get_proxy():
     print("开始调用get_proxy() ...")
     time.sleep(1)
@@ -64,6 +67,8 @@ def get_proxy():
             time.sleep(1)
             return get_proxy()
 
+# 获取用户名和用户主页的URL
+# :param i: 豆瓣用户列表的页数
 def get_User_Name_And_Url(i):
     url = ("https://movie.douban.com/subject/1292052/comments?start=" + str(i*20) + "&limit=20&status=P&sort=new_score")
     print("正在爬取第" + str(i + 1) + "页的用户名 ...")
@@ -78,38 +83,8 @@ def get_User_Name_And_Url(i):
     print("len(comments):" + str(len(comments)))
     return comments
 
-
-print("爬取用户中 ...")
-page_num = 10    # 10*20*90 = 18000条信息
-for i in range(0, page_num):
-    comments = get_User_Name_And_Url(i)
-    while len(comments) == 0:
-        comments = get_User_Name_And_Url(i)
-    # 将用户主页存储在people_url中
-    for comment in comments:
-        people_url = comment.findAll("a")[1].attrs["href"].replace("www", "movie")
-        name = re.findall(r, people_url)[0]
-        print(name, people_url)  #
-        people_names.append(name)
-        people_urls.append(people_url)
-print("爬取用户完成: ", str(len(people_names)))
-
-
-final_data = {}
-'''
-将用户名和用户主页的url组合成一个字典，如：
-{ 'whiterhinoceros': {'people_url': 'https://movie.douban.com/people/whiterhinoceros/'} }
-'''
-for i in range(0, len(people_names)):
-    final_data.setdefault(people_names[i], {})
-    final_data[people_names[i]]["people_url"] = people_urls[i]
-
-# 保存用户信息(备用)
-user_info_file = open('user_data.json', 'w', encoding='utf-8')
-json.dump(final_data, user_info_file, ensure_ascii=False)
-user_info_file.close()
-
-
+# 根据用户名来进入该用户的主页，爬取该用户的前90条（如果有）有效历史影评信息
+# :param people_name: 用户的豆瓣ID
 def get_User_Info(people_name):
     print("正在爬取第" + str(user_count) + "位用户" + people_name + "的影评信息")
     my_proxies = get_proxy()  # 获取代理IP
@@ -122,10 +97,6 @@ def get_User_Info(people_name):
         # 生成该用户看过的电影记录的url,如：
         # https://movie.douban.com/people/whiterhinoceros/collect?start=0&sort=time&rating=all&filter=all&mode=grid
         print("get data from:" + comment_url)
-
-        # req = urllib.request.Request(url=comment_url, headers=headers)
-        # comment_data = urllib.request.urlopen(req).read().decode('utf-8')
-
         try:
             comment_request = requests.get(url=comment_url, headers=headers, proxies=my_proxies, timeout=15)
         except:
@@ -164,7 +135,36 @@ def get_User_Info(people_name):
     print("第" + str(user_count) + "位用户" + people_name + "影评信息爬取成功\n")
     return 1
 
+# 开始爬取用户名和用户主页URL
+print("爬取用户中 ...")
+page_num = 10    # 10*20*90 = 18000条信息
+for i in range(0, page_num):
+    comments = get_User_Name_And_Url(i)
+    while len(comments) == 0:
+        comments = get_User_Name_And_Url(i)
+    # 将用户主页存储在people_url中
+    for comment in comments:
+        people_url = comment.findAll("a")[1].attrs["href"].replace("www", "movie")
+        name = re.findall(r, people_url)[0]
+        print(name, people_url)  #
+        people_names.append(name)
+        people_urls.append(people_url)
+print("爬取用户完成: ", str(len(people_names)))
 
+final_data = {}
+# 将用户名和用户主页的url组合成一个字典，如：
+# { 'whiterhinoceros': {'people_url': 'https://movie.douban.com/people/whiterhinoceros/'} }
+for i in range(0, len(people_names)):
+    final_data.setdefault(people_names[i], {})
+    final_data[people_names[i]]["people_url"] = people_urls[i]
+
+# 保存用户信息(备用)
+user_info_file = open('user_data.json', 'w', encoding='utf-8')
+json.dump(final_data, user_info_file, ensure_ascii=False)
+user_info_file.close()
+
+
+# 爬取用户影评
 print("爬取用户影评中...")
 for people_name in final_data:
     if get_User_Info(people_name=people_name) == 0:

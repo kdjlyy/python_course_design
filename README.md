@@ -1,5 +1,4 @@
-# python_course_design Python课程设计
-**param.py** (待修改，未使用)  
+# python_course_design Python课程设计 
 **get_data.py** 爬取用户信息和影评信息  
 **user_info.py** 爬取推荐用户的id  
 **recommend.py** 使用协同过滤算法推荐电影
@@ -10,6 +9,9 @@
 
 ***注：***   
 ① movie_data.json文件已获取，直接运行recommend.py可进行电影推荐。  
+
+### v1.1.3
+添加了代码注释，删除了非必要的文件和代码。
 
 ### v1.1.2
 绘制柱状图可能显示过多，改为最多显示前5个用户。

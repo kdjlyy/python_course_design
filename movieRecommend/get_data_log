@@ -1,4 +1,9 @@
-D:\App\anaconda3\python.exe C:/Users/kdjlyy/Desktop/codes/PythonCode/python_course_design/movieRecommend/get_data.py
+# -*- coding: utf-8 -*-
+# get_data.py爬取用户数据时控制台输出的log文件
+# created by 徐智沛 李晓宇 苏正棚 许都礼
+# copyright USTC
+# 11.29.2020
+
 爬取用户中 ...
 正在爬取第1页的用户名 ...
 开始调用get_proxy() ...

@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-"""
-根据皮尔森系数，找出与我相似的用户，再找这些用户最喜欢的电影
-推荐20部我可能喜欢的电影
-"""
+# 根据皮尔逊相关系数，找出与我相似的用户，再找这些用户最喜欢的电影
+# created by 徐智沛 李晓宇 苏正棚 许都礼
+# copyright USTC
+# 11.29.2020
 
 import json
 from math import sqrt
@@ -13,15 +13,13 @@ import movieRecommend.user_info
 sim_person = []
 sim_person_data = []
 sim_person_sim = []
-# 返回p1和p2的皮尔逊相关系数，即两个人品味的相似度
+
+# 计算皮尔森相似度，返回p1和p2的皮尔逊相关系数，即两个人品味的相似度
+# :param data: 爬取的用户影评数据
+# :param p1: 用户1
+# :param p2: 用户2
+# :return: 返回相似度
 def sim_pearson(data, p1, p2):
-    """
-    计算皮尔森相似度
-    :param data: 爬取的用户影评数据
-    :param p1: 用户1
-    :param p2: 用户2
-    :return: 返回相似度
-    """
     si = {}
     for item in data[p1]["movies"]:
         if item in data[p2]["movies"]:
@@ -46,18 +44,15 @@ def sim_pearson(data, p1, p2):
     r = num / den
     return r
 
-
+# 找到5个相似度最高的用户
+# :param data: 爬取的数据
+# :param person: 推荐用户
+# :param n: 前n个最相似的用户
+# :param similarity: 皮尔森相关系数
+# :return:
 def top_matches(data, person, similarity=sim_pearson):
-    """
-    找到5个相似度最高的用户
-    :param data: 爬取的数据
-    :param person: 用户本人
-    :param n: 前n个最相似的用户
-    :param similarity: 皮尔森相关系数
-    :return:
-    """
     sorted_data = {person: data[person]}
-    min_sim = 0.2
+    min_sim = 0.8
     sim_persons_list = []
     sim_person.clear()
     sim_person_data.clear()
@@ -74,19 +69,16 @@ def top_matches(data, person, similarity=sim_pearson):
     return sorted_data
 
 
+# 获取推荐结果
+# :param data: 电影评分数据
+# :param person: 待推荐用户名称
+# :param n: 推荐条目
+# :param similarity: 皮尔森相似度
+# :return: 返回电影数据
 def get_recommendations(data1, person, n=5, similarity=sim_pearson):
-    """
-    获取推荐结果
-    :param data: 电影评分数据
-    :param person: 待推荐用户名称
-    :param n: 推荐条目
-    :param similarity: 皮尔森相似度
-    :return: 返回电影数据
-    """
     totals = {}
     sim_sum = {}
     data = top_matches(data1, person)
-    # data = data1
     for other in data:
         if other == person:  # 计算除自己以外的相似度
             continue
@@ -104,17 +96,15 @@ def get_recommendations(data1, person, n=5, similarity=sim_pearson):
                 # Sum of similarities 总相似度
                 sim_sum.setdefault(item, 0)
                 sim_sum[item] += sim
-        # print(totals)
-        # print(sim_sum)
 
     # 创建评分列表
     rankings = [(total / sim_sum[item], item) for item, total in totals.items()]
     # 将rating排序并返回
     rankings.sort()
     rankings.reverse()
-    # print(rankings)
     return rankings[0:n]
 
+# 用户操作的相关步骤流程
 def showmenu():
     file = open('movie_data.json', 'r', encoding='utf-8')
     movie_data = json.load(file)
@@ -137,6 +127,7 @@ def showmenu():
             if movieRecommend.user_info.judge_user(movie_data, user):
                 RES = top_matches(movie_data, user)
                 x = []
+                sim_person_sim.sort(reverse=True)
                 for i in range(len(sim_person)):
                     print(sim_person[i])
                     print(sim_person_sim[i])
@@ -147,16 +138,6 @@ def showmenu():
                 plt.show()
             else:
                 print("该用户不在数据集内！")
-            # fraces = []
-            # labels = []
-            # x = [1, 2, 3, 4, 5]
-            #for i in RES:
-            #     labels.append(i[0])
-            #     fraces.append(i[1])
-            # plt.plot(x, sim_person_sim)
-            # for a, b, c in zip(x, sim_person_sim, sim_person_data):
-            #      plt.text(a, b, c, ha='center', va='bottom', fontsize=10)
-            # plt.show()
         elif choice == '2':
             print(choice)
             print("请输入需要被推荐电影的用户：")
@@ -191,6 +172,7 @@ def showmenu():
             print("退出程序！！！")
             chosen = False
 
+# 主函数
 if __name__ == '__main__':
     showmenu()
 

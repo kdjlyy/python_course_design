@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
-"""
-爬虫获取待推荐用户数据（默认自己）
-获取本人豆瓣影评信息，通过此信息分析个人喜好,寻找与我品味相似的用户
-最后将本人的喜好也放入json文件中
-"""
+# 爬虫获取待推荐用户数据，获取豆瓣影评信息，最后追加放入json文件中
+# created by 徐智沛 李晓宇 苏正棚 许都礼
+# copyright USTC
+# 11.29.2020
 
 import json
 from urllib.request import urlopen
@@ -19,12 +18,16 @@ headers = {
 }
 
 # 判断用户是否在数据集中
+# :param movie_data: 数据集的文件名
+# :param user_id: 用户的豆瓣ID
 def judge_user(movie_data, user_id):
     if user_id in movie_data:
         return True
     else:
         return False
 
+# 添加用户到数据集中
+# :param user_id: 用户的豆瓣ID
 def add_user_info(user_id):
     file1 = open('user_data.json', 'r', encoding='utf-8')
     user_data = json.load(file1)
@@ -88,8 +91,3 @@ def add_user_info(user_id):
         print("成功加入数据集！")
     else:
         print("加入数据集失败！")
-
-
-# if __name__ == '__main__':
-#     add_user_info('158938522')
-#     proudlucifer
